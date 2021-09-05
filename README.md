@@ -1,8 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on OS design.
-- 🌱 I’m currently learning RUST.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about OS and Compiler.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=leo-frank&hide_border=true&show_icons=true&theme=dark">
+### Hi there, this is Wynn! 👋
+- 🔭 Working on OS design just for fun.
+- 🌱 RUST & C programmer.
+- 🤔 Undergraduate in NUDT.
