@@ -4,6 +4,6 @@
 
 - 🔭 Working on OS design just for fun.
 
-- 🌱 RUST & C programmer.
+- 🌱 C programmer.
 
 - 🤔 Undergraduate in NUDT.
