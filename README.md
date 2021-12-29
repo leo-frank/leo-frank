@@ -5,5 +5,3 @@
 - 🔭 Working on OS design just for fun.
 
 - 🌱 C programmer.
-
-- 🤔 Undergraduate in NUDT.
