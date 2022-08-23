@@ -2,6 +2,6 @@
 
 ### Hi, this is Wynn! 👋
 
-- 🔭 Working on OS design just for fun.
+- 🔭 CS student pursuing a PhD degree. Research interests in AI & Operating System.
 
-- 🌱 C programmer.
+- 🌱 C/C++, Go, Python, Rust
