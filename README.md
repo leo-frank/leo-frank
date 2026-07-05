@@ -4,7 +4,9 @@
 
 - 🔭 CS student pursuing a PhD degree. Research interests in AI & Operating System.
 
-  - 3D Vision research: Structure from Motion, Multi-view Stereo, NeRF, 3D-Gaussian Splatting
+  - 3D Vision research: Structure from Motion, Multi-view Stereo, NeRF, 3D-Gaussian Splatting, VGGT;
+ 
+  - Acclerator for AI applications
 - 🌱 C/C++, Go, Python, Rust
 
 - 📫 How to reach me: wenyu18@nudt.edu.cn
